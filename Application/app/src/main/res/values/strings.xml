@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="data_upload">Upload: --</string>
+    <string name="data_download">Download: --</string>
+    <string name="data_quality">Quality: --</string>
+
+    <string name="download_speed">Download: %.2f Mbps</string>
+    <string name="upload_speed">Upload: %.2f Mbps</string>
+    <string name="network_quality">Quality: %s</string>
+    <string name="data_status">Press button to start test</string>
+
+    <string name="testing_network_speed">Testing network speed...</string>
+    <string name="measuring_download_speed">Measuring download speed...</string>
+    <string name="measuring_upload_speed">Measuring upload speed...</string>
+    <string name="test_completed">Test completed</string>
+</resources>
